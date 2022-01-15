@@ -4,7 +4,7 @@
 Skills: C++/SQL/HTML/CSS/JS
 
 - 🔭 I’m currently working on Data structures and algorithms 
-- 🌱 I’m currently learning React,Python 
+- 🌱 I’m currently learning REACT,PYTHON
 - 📫 How to reach me: adarshkrishnaa1310@gmail.com 
 
 
