@@ -3,8 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Data structures and algorithms 
-- 🌱 I’m currently learning REACT,PYTHON
+- 🔭 I’m currently working on DevOps | Full Stack
 - 📫 How to reach me: adarshkrishnaa1310@gmail.com 
 
 <h3 align="left">Languages and Tools:</h3>
